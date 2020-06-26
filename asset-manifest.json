@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ManeMaria/LandingPage-model.git/static/css/main.0ae0fe41.chunk.css",
+    "main.js": "/ManeMaria/LandingPage-model.git/static/js/main.f346af79.chunk.js",
+    "main.js.map": "/ManeMaria/LandingPage-model.git/static/js/main.f346af79.chunk.js.map",
+    "runtime-main.js": "/ManeMaria/LandingPage-model.git/static/js/runtime-main.fe73309c.js",
+    "runtime-main.js.map": "/ManeMaria/LandingPage-model.git/static/js/runtime-main.fe73309c.js.map",
+    "static/js/2.a48721f4.chunk.js": "/ManeMaria/LandingPage-model.git/static/js/2.a48721f4.chunk.js",
+    "static/js/2.a48721f4.chunk.js.map": "/ManeMaria/LandingPage-model.git/static/js/2.a48721f4.chunk.js.map",
+    "index.html": "/ManeMaria/LandingPage-model.git/index.html",
+    "precache-manifest.f813e48b90b27e028fa1bd0d1bf7282b.js": "/ManeMaria/LandingPage-model.git/precache-manifest.f813e48b90b27e028fa1bd0d1bf7282b.js",
+    "service-worker.js": "/ManeMaria/LandingPage-model.git/service-worker.js",
+    "static/css/main.0ae0fe41.chunk.css.map": "/ManeMaria/LandingPage-model.git/static/css/main.0ae0fe41.chunk.css.map",
+    "static/js/2.a48721f4.chunk.js.LICENSE.txt": "/ManeMaria/LandingPage-model.git/static/js/2.a48721f4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ManeMaria/LandingPage-model.git/static/media/grupo-de-pessoas-trabalhando-juntas-azul.3898f925.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe73309c.js",
+    "static/js/2.a48721f4.chunk.js",
+    "static/css/main.0ae0fe41.chunk.css",
+    "static/js/main.f346af79.chunk.js"
+  ]
+}
