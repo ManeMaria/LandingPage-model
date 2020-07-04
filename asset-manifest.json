@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LandingPage-model/static/css/main.10038a84.chunk.css",
+    "main.css": "/LandingPage-model/static/css/main.5b6a3add.chunk.css",
     "main.js": "/LandingPage-model/static/js/main.f346af79.chunk.js",
     "main.js.map": "/LandingPage-model/static/js/main.f346af79.chunk.js.map",
     "runtime-main.js": "/LandingPage-model/static/js/runtime-main.134fbd55.js",
@@ -8,16 +8,16 @@
     "static/js/2.a48721f4.chunk.js": "/LandingPage-model/static/js/2.a48721f4.chunk.js",
     "static/js/2.a48721f4.chunk.js.map": "/LandingPage-model/static/js/2.a48721f4.chunk.js.map",
     "index.html": "/LandingPage-model/index.html",
-    "precache-manifest.b6ad61afc8ed33079196296c04ef8081.js": "/LandingPage-model/precache-manifest.b6ad61afc8ed33079196296c04ef8081.js",
+    "precache-manifest.6c3e25e0a998661941c8968f0292ddc1.js": "/LandingPage-model/precache-manifest.6c3e25e0a998661941c8968f0292ddc1.js",
     "service-worker.js": "/LandingPage-model/service-worker.js",
-    "static/css/main.10038a84.chunk.css.map": "/LandingPage-model/static/css/main.10038a84.chunk.css.map",
+    "static/css/main.5b6a3add.chunk.css.map": "/LandingPage-model/static/css/main.5b6a3add.chunk.css.map",
     "static/js/2.a48721f4.chunk.js.LICENSE.txt": "/LandingPage-model/static/js/2.a48721f4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/LandingPage-model/static/media/grupo-de-pessoas-trabalhando-juntas-azul.3898f925.png"
   },
   "entrypoints": [
     "static/js/runtime-main.134fbd55.js",
     "static/js/2.a48721f4.chunk.js",
-    "static/css/main.10038a84.chunk.css",
+    "static/css/main.5b6a3add.chunk.css",
     "static/js/main.f346af79.chunk.js"
   ]
 }
