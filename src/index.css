@@ -120,9 +120,10 @@
     }
     .designSpanH2{
         width: 43%;
-        font-size: 25px;
+        font-size: 20px;
         font-weight: 900;
-        margin: 1% 15%;
+        margin: 0 0 ;
+        flex-wrap: wrap;
     }
     .formSection1{
         width: 100%;
@@ -142,14 +143,14 @@
     .designSpanformH1{
         width: 15%;
         font-weight: 800;
-        font-size: 20px;
+        font-size: 15px;
+
     }
     .designSpanformH2{
         width: 20%;
-        font-size: 17px;
+        font-size: 12px;
     }
     .spanForStyle{
-
         font-size: 20px;
     }
     .formSection1 input[type="text"],
